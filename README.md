@@ -1,6 +1,6 @@
 # 🌳 Soil Quality Monitoring System
 
-Focused on developing my skills and understanding of object-oriented programing, modular design, and real-world data analysis usinng Java, I made this project simulates IoT-based agricultural sensors to track soil moisture and pH levels, providing farmers with instant insights for better crop management. 
+Focused on develop my skills and understanding of object-oriented programing, modular design, and real-world data analysis usinng Java, I made this project simulates IoT-based agricultural sensors to track soil moisture and pH levels, providing farmers with instant insights for better crop management. 
 
 ---
 
